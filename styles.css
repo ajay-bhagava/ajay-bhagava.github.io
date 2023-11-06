@@ -1,0 +1,22 @@
+body {
+  color: white;
+  padding: 2em;
+  font-family: 'Helvetica';
+  background: rgb(10, 10, 10);  
+}
+
+h1 {
+  text-align: center;
+}
+
+#projects-section {
+  display: flex;
+  flex-direction: column;
+  max-width: 70vw;
+  margin: 0 auto;
+}
+
+.project-title {
+  text-align: center;
+  font-weight: bold;
+}
